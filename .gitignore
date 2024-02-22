@@ -1,6 +1,6 @@
-*.png
-!*.pdf
+businessAnalytics/*
+businessAnalytics/!*.pdf
 !*.md
-!*.pbix
+businessAnalytics/!*.pbix
 *.nlp
 *.pdf-view-restore
