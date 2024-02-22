@@ -1,9 +1,0 @@
-\contentsline {chapter}{\numberline {1}Project 2 }{2}{}%
-\contentsline {section}{\numberline {1.1}Introduction}{2}{}%
-\contentsline {section}{\numberline {1.2}Data Processing}{3}{}%
-\contentsline {subsection}{\numberline {1.2.1}Hotel\_Dataset}{4}{}%
-\contentsline {subsection}{\numberline {1.2.2}Climatic Conditions}{6}{}%
-\contentsline {subsection}{\numberline {1.2.3}Data on Northeastern States}{8}{}%
-\contentsline {section}{\numberline {1.3}Analytics}{10}{}%
-\contentsline {subsection}{\numberline {1.3.1}Best Northeastern state to set up a hotel}{10}{}%
-\contentsline {subsection}{\numberline {1.3.2}Best state to set up a hotel}{11}{}%
