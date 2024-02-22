@@ -1,0 +1,6 @@
+*.png
+!*.pdf
+!*.md
+!*.pbix
+*.nlp
+*.pdf-view-restore

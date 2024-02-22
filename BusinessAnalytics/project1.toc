@@ -1,0 +1,16 @@
+\contentsline {chapter}{\numberline {1}Project 1 }{2}{}%
+\contentsline {section}{\numberline {1.1}Identifying the Root Problem}{2}{}%
+\contentsline {section}{\numberline {1.2}MECE of the Root Problem}{3}{}%
+\contentsline {section}{\numberline {1.3}Profitability Tree}{4}{}%
+\contentsline {section}{\numberline {1.4}Potential Growth in Different Sectors and Geographical Locations:}{5}{}%
+\contentsline {subsection}{\numberline {1.4.1}India}{5}{}%
+\contentsline {subsection}{\numberline {1.4.2}US and Europe:}{5}{}%
+\contentsline {section}{\numberline {1.5}On Acquisition}{5}{}%
+\contentsline {section}{\numberline {1.6}Recommendations:}{5}{}%
+\contentsline {subsection}{\numberline {1.6.1}Investment Focus:}{5}{}%
+\contentsline {subsection}{\numberline {1.6.2}Acquisitions:}{5}{}%
+\contentsline {subsection}{\numberline {1.6.3}Employee Optimization:}{6}{}%
+\contentsline {subsection}{\numberline {1.6.4}Product Diversification:}{6}{}%
+\contentsline {subsection}{\numberline {1.6.5}Market Expansion:}{6}{}%
+\contentsline {subsection}{\numberline {1.6.6}Competitive Benchmarking:}{6}{}%
+\contentsline {subsection}{\numberline {1.6.7}Strategic Partnerships:}{6}{}%
