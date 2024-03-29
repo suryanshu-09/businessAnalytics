@@ -2,9 +2,5 @@ BusinessAnalytics/*
 BusinessAnalytics/!*.pdf
 !*.md
 BusinessAnalytics/!*.pbix
-DataScience/*
-DataScience/!*.pdf
-DataScience/!*.py
-DataScience/!*.csv
 *.nlp
 *.pdf-view-restore
